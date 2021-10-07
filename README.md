@@ -9,7 +9,7 @@ Kotlin, Java, Android Studio, Android JetPack, Room Database, SQLite, SQL, XML, 
   <div flex="50%" padding="4px">
     <img src="./demo/profile.png" width="150">
     <img src="./demo/new.png" width="150">
-    <img src="./demo/serialNumber.png" width="150">
+    <img src="./demo/serialNum.png" width="150">
     <img src="./demo/type.png" width="150">
   </div>
   <div flex="50%" padding="4px">
