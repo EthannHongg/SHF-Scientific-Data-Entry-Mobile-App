@@ -1,5 +1,6 @@
 # SHF-Scientific-Data-Entry-Mobile-App
 This is a data entry and management app built for environmental scientists to edit, analyze, and transmit information regarding research samples. 
+Note: this repository demonstrates working features that can be shown to the public according to government guidelines, the code and some works are not included as their rights belong to Environment and Climate Change Canada.
 
 ## Technologies
 Kotlin, Java, Android Studio, Android JetPack, Room Database, SQLite, SQL, XML, jQuery, Espresso, Groovy
